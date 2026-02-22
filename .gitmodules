@@ -1,0 +1,9 @@
+[submodule "Python-Assignment"]
+	path = Python-Assignment
+	url = https://github.com/Kartikey5853/Python-Assignment
+[submodule "Data_science_assignement"]
+	path = Data_science_assignement
+	url = https://github.com/Kartikey5853/Data_science_assignement
+[submodule "Front-End-Assignments"]
+	path = Front-End-Assignments
+	url = https://github.com/Kartikey5853/Front-End-Assignments
